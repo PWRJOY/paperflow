@@ -22,6 +22,8 @@
 | 外廓 | 86 × 133 × 29 mm |
 | 顶板 / 侧壁厚 | 3.6 / 3.2 mm |
 
+这个架子改过三版（完整壳体 → 轻量化 → 极简），每一版为什么改、砍掉了什么、踩过哪些坑，都记在 [设计笔记](docs/design-notes.md) 里。
+
 ## 打印
 
 | 参数 | 建议值 |
@@ -52,6 +54,7 @@ codes/render.py      预览渲染器（读 STL 出 PNG，无 CAD 软件时用）
 output/riser.stl     可打印网格
 output/riser.step    可编辑实体
 output/preview_*.png 渲染预览
+docs/design-notes.md 设计笔记：三版迭代过程与取舍
 ```
 
 ## 改尺寸
