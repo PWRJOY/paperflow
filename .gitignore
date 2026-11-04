@@ -1,0 +1,18 @@
+# Python 虚拟环境：681 MB / 22,007 个文件，绝不入库
+.venv/
+__pycache__/
+*.py[cod]
+
+# 编辑器 / 工具内置目录
+.workbuddy/
+.idea/
+.vscode/
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时渲染产物
+_output/
+*.tmp

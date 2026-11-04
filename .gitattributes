@@ -1,0 +1,11 @@
+* text=auto eol=lf
+
+# 二进制
+*.stl  binary
+*.3mf  binary
+*.png  binary
+*.jpg  binary
+
+# STEP 是纯文本，按文本处理
+*.step text eol=lf
+*.stp  text eol=lf
