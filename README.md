@@ -8,17 +8,15 @@
 
 ## 改造前
 
-| 面单被线顶起来 | 线只能盘在打印机后面 |
-|---|---|
-| ![面单被线缆拱起](docs/images/before-label-lifted.jpg) | ![线缆盘在桌面上](docs/images/before-cables.jpg) |
+<img src="docs/images/before-cables.jpg" width="440" alt="面单没处放，只能用一只手举着，桌面上是盘起来的线缆">
 
-面单还连在机内纸卷上，出纸后只能摊在打印机后方那一小片桌面上，而电源线和 USB 线也正好盘在那里。纸压到线上就被拱起来，中间架空、边缘翘着，一张也铺不平。
+面单还连在机内纸卷上，出纸后只能摊在打印机后方那一小片桌面上，而电源线和 USB 线也正好盘在那里。纸压到线上就被拱起来，中间架空、边缘翘着，一张也铺不平——只能一只手举着。
 
 ## 改造后
 
-![打印出来的实物](docs/images/riser-in-use.jpg)
+![面单平放在架子上](docs/images/after-labels-on-riser.jpg)
 
-台面抬到 25 mm，线缆全部收进架子内部，面单落在平整的板上。
+台面抬到 25 mm，线缆全部收进架子内部，面单落在平整的板上，打好的几张可以直接摞着。
 
 [![打印中](docs/media/riser-demo.gif)](docs/media/riser-demo.mp4)
 
