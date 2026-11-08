@@ -16,3 +16,6 @@ desktop.ini
 # 临时渲染产物
 _output/
 *.tmp
+
+# 用户提供的高清原图/视频，压缩后的版本在 docs/images/
+docs/_raw/
