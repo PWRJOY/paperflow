@@ -20,6 +20,10 @@
 
 台面抬到 25 mm，线缆全部收进架子内部，面单落在平整的板上。
 
+[![打印中](docs/media/riser-demo.gif)](docs/media/riser-demo.mp4)
+
+打印机出一张面单的全过程：纸从机器里出来时还带着纸卷的卷曲，会自己卷成一个圈，得用手压一下才服帖；右边架子上压着之前打好的几张。点开看[原视频](docs/media/riser-demo.mp4)（2.4 s，720×1280）。
+
 ## 结构
 
 ![三视角渲染](output/preview_iso.png)
@@ -72,6 +76,8 @@ output/riser.step    可编辑实体
 output/preview_*.png 渲染预览
 docs/design-notes.md 设计笔记：三版迭代过程与取舍
 docs/images/*.jpg    实拍图：改造前的问题、打印出的实物
+docs/media/*.gif     打印过程的循环动图（README 里直接播放）
+docs/media/*.mp4     原视频
 ```
 
 ## 改尺寸
